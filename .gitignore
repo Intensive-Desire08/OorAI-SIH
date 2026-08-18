@@ -70,3 +70,8 @@ vector_db/
 # OS
 .DS_Store
 Thumbs.db
+
+# RAG generated artifacts
+data/rag/processed/*.index
+data/rag/processed/*.npy
+data/rag/processed/*.json

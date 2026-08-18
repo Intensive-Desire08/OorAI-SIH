@@ -1,0 +1,62 @@
+[
+  {
+    "query": "How powerful was the Chola navy?",
+    "relevant_chunks": [33, 95, 97, 98]
+  },
+  {
+    "query": "Chola navy epdi powerful aachu?",
+    "relevant_chunks": [33, 97, 98]
+  },
+  {
+    "query": "சோழர்களின் கடற்படை எவ்வளவு சக்திவாய்ந்தது?",
+    "relevant_chunks": [33, 97, 98]
+  },
+  {
+    "query": "ചോളരുടെ നാവികസേന എത്ര ശക്തമായിരുന്നു?",
+    "relevant_chunks": [33, 95, 97, 98]
+  },
+  {
+    "query": "Who founded the Chola Empire?",
+    "relevant_chunks": [0, 51]
+  },
+  {
+    "query": "சோழ பேரரசை நிறுவியவர் யார்?",
+    "relevant_chunks": [0, 51]
+  },
+  {
+    "query": "Chola empire yaar start pannanga?",
+    "relevant_chunks": [0, 51]
+  },
+  {
+    "query": "Who was Rajaraja Chola I?",
+    "relevant_chunks": [3, 29]
+  },
+  {
+    "query": "How was Chola administration organized?",
+    "relevant_chunks": [12, 17, 19]
+  },
+  {
+    "query": "Chola administration epdi work aachu?",
+    "relevant_chunks": [12, 17, 19]
+  },
+  {
+    "query": "சோழர்களின் நிர்வாகம் எப்படி இருந்தது?",
+    "relevant_chunks": [12, 17, 19]
+  },
+  {
+    "query": "How did village assemblies work under the Cholas?",
+    "relevant_chunks": [19]
+  },
+  {
+    "query": "What was Gangaikondacholapuram?",
+    "relevant_chunks": [6, 13, 127]
+  },
+  {
+    "query": "Why was Brihadeshwara Temple important?",
+    "relevant_chunks": [4]
+  },
+  {
+    "query": "What was the Chola economy based on?",
+    "relevant_chunks": [24, 100]
+  }
+]
